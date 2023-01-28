@@ -242,9 +242,9 @@
   (pad "18" smd oval (at -1.625 -2.871) (size 0.364 1.742) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7db5ad2e-4db3-4b6b-812b-2e96b970f7a1))
   (pad "19" smd oval (at -2.275 -2.871) (size 0.364 1.742) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a3c16c4e-7689-4d1e-81cc-8f5e172e2718))
   (pad "20" smd oval (at -2.925 -2.871) (size 0.364 1.742) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp be777584-f2a3-4458-a7ed-4d8c8fd1cf58))
-  (model "${KIPRJMOD}/Libraries/Uinio.3D/RGB_WS2812B_5050.wrl"
-    (offset (xyz -911.475 683.721 0.5))
+  (model "${KIPRJMOD}/Libraries/Uinio.3D/TSSOP-20.step"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -90))
+    (rotate (xyz -90 0 -90))
   )
 )
