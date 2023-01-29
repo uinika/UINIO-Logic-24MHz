@@ -4,7 +4,7 @@
 
 ![](./Images/PCB-3D-1.png)
 
-<!-- ![](./Images/PCB-3D-2.png) -->
+![](./Images/PCB-3D-2.png)
 
 ## 功能概要
 
