@@ -1,42 +1,53 @@
-### Module positions - created on Fri Dec 30 18:11:56 2022 ###
-### Printed by Pcbnew version (6.0.10)
+### Module positions - created on Sun Jan 29 17:16:24 2023 ###
+### Printed by Pcbnew version (6.0.11)
 ## Unit = mm, Angle = deg.
 ## Side : All
-# Ref     Val                  Package                                                         PosX       PosY       Rot  Side
-C1        1uF                  C_0402_1005Metric                                           158.4400  -100.6000   90.0000  top
-C2        1uF                  C_0402_1005Metric                                           153.4200  -100.6000  -90.0000  top
-C3        0.1uF                C_0402_1005Metric                                           150.4633  -115.8000  -90.0000  top
-C4        0.1uF                C_0402_1005Metric                                           151.1200  -101.9900   90.0000  top
-C5        0.1uF                C_0402_1005Metric                                           157.4800  -107.5800    0.0000  top
-C6        0.1uF                C_0402_1005Metric                                           157.4900  -109.8500    0.0000  top
-C7        0.1uF                C_0402_1005Metric                                           145.2300  -103.9100  180.0000  top
-C8        12pF                 C_0402_1005Metric                                           154.5200  -117.5800  -90.0000  top
-C9        12pF                 C_0402_1005Metric                                           159.7300  -117.5800   90.0000  top
-C10       1uF                  C_0402_1005Metric                                           147.9100  -115.8000   90.0000  top
-D1        Red_LED              LED_0603_1608Metric                                         163.0900  -117.7000    0.0000  top
-D2        Blue_LED             LED_0603_1608Metric                                         141.1775  -117.7000  180.0000  top
-HOLE1     Hole-2mm             Hole-2mm                                                    136.3700  -100.9200    0.0000  top
-HOLE2     Hole-2mm             Hole-2mm                                                    136.1600  -116.8800    0.0000  top
-HOLE3     Hole-1mm             Hole-1mm                                                    167.4200  -100.2700    0.0000  top
-HOLE4     Hole-1mm             Hole-1mm                                                    167.4200  -117.4900    0.0000  top
-J1        Conn_02x05_Odd_Even  IDC-Header_2x05_P2.54mm_Horizontal                          137.6475  -113.9800  180.0000  top
-R1        100R                 R_0402_1005Metric                                           140.2400  -104.9700    0.0000  top
-R2        100R                 R_0402_1005Metric                                           140.2400  -106.1233    0.0000  top
-R3        100R                 R_0402_1005Metric                                           140.2400  -107.2767    0.0000  top
-R4        100R                 R_0402_1005Metric                                           140.2400  -108.4300    0.0000  top
-R5        100R                 R_0402_1005Metric                                           140.2400  -109.6500    0.0000  top
-R6        100R                 R_0402_1005Metric                                           140.2400  -110.7900    0.0000  top
-R7        100R                 R_0402_1005Metric                                           140.2400  -111.9300    0.0000  top
-R8        100R                 R_0402_1005Metric                                           140.2400  -113.0700    0.0000  top
-R9        1K                   R_0402_1005Metric                                           163.3600  -116.1400  180.0000  top
-R10       10K                  R_0402_1005Metric                                           140.9000  -116.1100    0.0000  top
-R11       10K                  R_0402_1005Metric                                           151.7400  -115.8200  -90.0000  top
-R12       2.2K                 R_0402_1005Metric                                           148.5567  -101.9700  -90.0000  top
-R13       2.2K                 R_0402_1005Metric                                           149.8433  -101.9700  -90.0000  top
-R14       100K                 R_0402_1005Metric                                           149.1867  -115.8200  -90.0000  top
-U1        AT24CS64-XHM         TSSOP-8_4.4x3mm_P0.65mm                                     142.4100  -100.9100    0.0000  top
-U2        ME6211C33M5G-N       SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR                           155.9300  -101.0720    0.0000  top
-U3        CY7C68013A-56LTX     QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented   149.8340  -108.9000  -135.0000  top
-USB1      USB_Type_C_16Pin     USB-C-SMD_TYPEC-304J-BCP16                                  164.3840  -109.1300   90.0000  top
-Y1        24MHz                Crystal_SMD_3225-4Pin_3.2x2.5mm                             157.1200  -116.7900  180.0000  top
+# Ref     Val               Package                                                         PosX       PosY       Rot  Side
+C1        1uF               C_0402_1005Metric                                            -9.1800    -4.2700  -90.0000  top
+C2        1uF               C_0402_1005Metric                                           -14.5100    -4.2700  -90.0000  top
+C3        0.1uF             C_0402_1005Metric                                           -18.6900    -4.2600   90.0000  top
+C4        0.1uF             C_0402_1005Metric                                           -24.1400   -17.4600  180.0000  top
+C5        0.1uF             C_0402_1005Metric                                           -24.1400   -15.5300  180.0000  top
+C6        0.1uF             C_0402_1005Metric                                           -24.1300   -10.5200  180.0000  top
+C7        0.1uF             C_0402_1005Metric                                           -10.6400   -11.6600  -90.0000  top
+C8        12pF              C_0402_1005Metric                                           -10.4000   -22.5200   90.0000  top
+C9        12pF              C_0402_1005Metric                                            -5.2600   -22.5300  -90.0000  top
+C10       1uF               C_0402_1005Metric                                           -12.6100   -22.5400  -90.0000  top
+D1        Red_LED           LED_0603_1608Metric                                          -5.1100    -3.6900  -90.0000  top
+D2        Blue_LED          LED_0603_1608Metric                                         -24.7600   -21.9975  -90.0000  top
+D3        Blue_LED          LED_0603_1608Metric                                         -17.8950   -21.9500  -90.0000  top
+HOLE1     Hole-2mm          Hole-2mm                                                    -38.8900    -2.7100    0.0000  top
+HOLE2     Hole-2mm          Hole-2mm                                                    -38.8900   -22.7100    0.0000  top
+HOLE3     Hole-2mm          Hole-2mm                                                     -0.8000    -2.7100    0.0000  top
+HOLE4     Hole-2mm          Hole-2mm                                                     -0.8000   -22.7100    0.0000  top
+J1        Conn_01x10_Male   PinHeader_1x10_P2.54mm_Vertical                             -45.3850   -24.2050  180.0000  top
+R1        100R              R_0402_1005Metric                                           -38.7300    -7.5600  180.0000  top
+R2        100R              R_0402_1005Metric                                           -38.7300    -9.0429  180.0000  top
+R3        100R              R_0402_1005Metric                                           -38.7300   -10.5257  180.0000  top
+R4        100R              R_0402_1005Metric                                           -38.7300   -12.0086  180.0000  top
+R5        100R              R_0402_1005Metric                                           -38.7300   -13.4914  180.0000  top
+R6        100R              R_0402_1005Metric                                           -38.7300   -14.9743  180.0000  top
+R7        100R              R_0402_1005Metric                                           -38.7300   -16.4571  180.0000  top
+R8        100R              R_0402_1005Metric                                           -38.7300   -17.9400  180.0000  top
+R9        100K              R_0402_1005Metric                                           -34.6700   -22.5500   90.0000  top
+R10       100K              R_0402_1005Metric                                           -33.1379   -22.5500   90.0000  top
+R11       100K              R_0402_1005Metric                                           -31.6057   -22.5500   90.0000  top
+R12       100K              R_0402_1005Metric                                           -30.0736   -22.5500   90.0000  top
+R13       100K              R_0402_1005Metric                                           -30.0736    -2.9000  -90.0000  top
+R14       100K              R_0402_1005Metric                                           -31.6057    -2.9000  -90.0000  top
+R15       100K              R_0402_1005Metric                                           -33.1379    -2.9000  -90.0000  top
+R16       100K              R_0402_1005Metric                                           -34.6700    -2.9000  -90.0000  top
+R17       1K                R_0402_1005Metric                                            -6.6800    -3.1100   90.0000  top
+R18       10K               R_0402_1005Metric                                           -23.2200   -22.2800   90.0000  top
+R19       10K               R_0402_1005Metric                                           -19.5200   -22.2700   90.0000  top
+R20       10K               R_0402_1005Metric                                           -10.6400   -15.7500  -90.0000  top
+R21       2.2K              R_0402_1005Metric                                           -23.5000    -6.3800    0.0000  top
+R22       2.2K              R_0402_1005Metric                                           -21.4800    -6.3800    0.0000  top
+R23       100K              R_0402_1005Metric                                           -13.9000   -22.5200   90.0000  top
+U1        AT24CS64-XHM      TSSOP-8_4.4x3mm_P0.65mm                                     -24.3200    -3.7900    0.0000  top
+U2        74HC245C          TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL                           -30.4900   -12.7800   90.0000  top
+U3        ME6211C33M5G-N    SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR                           -11.8450    -3.8120    0.0000  top
+U4        CY7C68013A-56LTX  QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented   -16.9400   -12.7800  -90.0000  top
+USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16                                   -2.5400   -12.7600   90.0000  top
+Y1        24MHz             Crystal_SMD_3225-4Pin_3.2x2.5mm                              -7.8400   -21.3400   90.0000  top
 ## End
