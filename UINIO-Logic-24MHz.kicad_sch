@@ -6,8 +6,8 @@
 
   (title_block
     (title "UINIO-Logic-24MHz")
-    (date "2022-12-28")
-    (rev "Version 1.0.0")
+    (date "2023-01-29")
+    (rev "Version 2.0.0")
     (company "电子技术博客 UinIO.com")
   )
 
@@ -2236,7 +2236,7 @@
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 1b2dfab2-0ffa-417d-bed2-6c30ac06f3a9)
   )
-  (text "信\n号\n收\n发\n电\n路" (at 33.02 54.61 0)
+  (text "信\n号\n收\n发\n器" (at 34.29 52.07 0)
     (effects (font (size 3 3)) (justify left bottom))
     (uuid 4ba32809-0abd-4885-a61c-d8b8cf192669)
   )

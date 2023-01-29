@@ -7,8 +7,8 @@
   (paper "A4")
   (title_block
     (title "UINIO-Logic-24MHz")
-    (date "2022-12-28")
-    (rev "Version 1.0.0")
+    (date "2023-01-29")
+    (rev "Version 2.0.0")
     (company "电子技术博客 UinIO.com")
   )
 
