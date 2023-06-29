@@ -1,6 +1,6 @@
 # UINIO-Logic-24MHz 逻辑分析仪
 
-本款逻辑分析仪基于**英飞凌**（已收购**赛普拉斯 Cypress**）公司推出的 [**CY7C68013A**](https://www.infineon.com/cms/en/product/universal-serial-bus-usb-power-delivery-controller/peripheral-controllers/ez-usb-fx2lp/cy7c68013a-56ltxit/) 型 USB2.0 微控制器以及 [**Sigork**](https://sigrok.org/) 开源固件方案，拥有 `24MHz` 采样频率和 **8** 个采样通道。
+该款逻辑分析仪基于**英飞凌**（已将**赛普拉斯 Cypress** 收购）推出的 [**CY7C68013A**](https://www.infineon.com/cms/en/product/universal-serial-bus-usb-power-delivery-controller/peripheral-controllers/ez-usb-fx2lp/cy7c68013a-56ltxit/) 型 `USB2.0` 微控制器以及 [**Sigork**](https://sigrok.org/) 开源固件方案，拥有 `24MHz` 采样频率和 **8** 个采样通道。
 
 ![](./Images/PCB-3D-1.png)
 
