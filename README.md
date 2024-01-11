@@ -1,6 +1,6 @@
 # UINIO-Logic-24MHz 逻辑分析仪
 
-[**UINIO-Logic-24MHz**](https://github.com/uinika/UINIO-Logic-24MHz) 是一款基于**英飞凌**（已收购**赛普拉斯 Cypress**）的 [**CY7C68013A**](https://www.infineon.com/cms/en/product/universal-serial-bus-usb-power-delivery-controller/peripheral-controllers/ez-usb-fx2lp/cy7c68013a-56ltxit/) 型 `USB2.0` 控制器，以及 [**Sigork**](https://sigrok.org/) 开源固件方案的逻辑分析仪电路设计。拥有 `24MHz` 采样频率，以及 **8** 个采样通道。
+[**UINIO-Logic-24MHz**](https://gitee.com/uinika/UINIO-Logic-24MHz) 是一款基于**英飞凌**（已收购**赛普拉斯 Cypress**）的 [**CY7C68013A**](https://www.infineon.com/cms/en/product/universal-serial-bus-usb-power-delivery-controller/peripheral-controllers/ez-usb-fx2lp/cy7c68013a-56ltxit/) 型 `USB2.0` 控制器，以及 [**Sigork**](https://sigrok.org/) 开源固件方案的逻辑分析仪电路设计。拥有 `24MHz` 采样频率，以及 **8** 个采样通道。
 
 ![](./Images/PCB-3D-1.png)
 
@@ -19,3 +19,7 @@
 
 - LED 指示灯 `D2` 连接至 **CY7C68013A** 的 `PA0` 引脚，而 `D3` 则被连接至 `PA1` 引脚；
 - 需要结合 **Sigork** 的开源固件 [sigrok-firmware-fx2lafw](https://github.com/wuxx/sigrok-firmware-fx2lafw)，并且搭配 [PulseView](https://sigrok.org/wiki/Downloads) 上位机协同使用；
+
+## 配套文档
+
+关于 [**UINIO-Logic-24MHz**](https://gitee.com/uinika/UINIO-Logic-24MHz) 的硬件原理分析，以及配套上位机软件 [PulseView](https://sigrok.org/wiki/Downloads) 的使用，请参见 [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/) 一文。
