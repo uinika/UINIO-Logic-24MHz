@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,7.0.5*%
-%TF.CreationDate,2023-07-05T13:27:57+08:00*%
-%TF.ProjectId,UINIO-Logic-24MHz,55494e49-4f2d-44c6-9f67-69632d32344d,Version 3.1.0*%
-%TF.SameCoordinates,PX925c430PY587b5e0*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.9*%
+%TF.CreationDate,2024-01-11T17:12:29+08:00*%
+%TF.ProjectId,UINIO-Logic-24MHz,55494e49-4f2d-44c6-9f67-69632d32344d,Version 3.1.1*%
+%TF.SameCoordinates,PX7aa95e0PY587b5e0*%
 %TF.FileFunction,Paste,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.5) date 2023-07-05 13:27:57*
+G04 Created by KiCad (PCBNEW 7.0.9) date 2024-01-11 17:12:29*
 %MOMM*%
 %LPD*%
 G01*
