@@ -22,4 +22,4 @@
 
 ## 配套文档
 
-关于 [**UINIO-Logic-24MHz**](https://gitee.com/uinika/UINIO-Logic-24MHz) 的硬件原理分析，以及配套上位机软件 [PulseView](https://sigrok.org/wiki/Downloads) 的使用，请参见 [**UinIO.com 电子技术实验室**](https://www.uinio.com/) 当中的文章 [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/) 。
+关于 [**UINIO-Logic-24MHz**](https://gitee.com/uinika/UINIO-Logic-24MHz) 的硬件原理分析，以及配套上位机软件 [PulseView](https://sigrok.org/wiki/Downloads) 的使用，请参见 [**UinIO.com 电子技术实验室**](https://www.uinio.com/) 当中的专题文章 [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/) 。
