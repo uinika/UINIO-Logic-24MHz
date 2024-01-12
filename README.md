@@ -25,4 +25,4 @@
 [UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-Logic-24MHz 开源项目提供了如下一系列技术参考资料：
 
 - [**《快速上手 UINIO-Logic-24MHz 逻辑分析仪》**](http://uinio.com/Project/UINIO-Logic-24MHz/) ：分析了 UINIO-Logic-24MHz 的硬件原理，并且介绍了配套上位机软件 [PulseView](https://sigrok.org/wiki/Downloads) 的使用。
-- [**《BOM 交互式物料清单与 PCB 布线在线预览》**](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)：列举 UINIO-Logic-24MHz 硬件 PCB 所涉及物料的同时，还提供了布线的预览。
+- [**《BOM 交互式物料清单与 PCB 布线在线预览》**](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)：列举了 UINIO-Logic-24MHz 硬件 PCB 所涉及的物料，同时还提供了布线的预览。
