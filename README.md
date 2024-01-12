@@ -6,7 +6,7 @@
 
 ![](./Images/PCB-3D-2.png)
 
-## 功能概要
+## 设计概要
 
 1. 采用 **USB Type-C** 接口，以及 `10 Pin` 的牛角插座；
 2. **CY7C68013A** 型 USB 控制器芯片采用了体积较小的 `QFN56` 封装；
@@ -20,6 +20,9 @@
 - LED 指示灯 `D2` 连接至 **CY7C68013A** 的 `PA0` 引脚，而 `D3` 则被连接至 `PA1` 引脚；
 - 需要结合 **Sigork** 的开源固件 [sigrok-firmware-fx2lafw](https://github.com/wuxx/sigrok-firmware-fx2lafw)，并且搭配 [PulseView](https://sigrok.org/wiki/Downloads) 上位机协同使用；
 
-## 配套文档
+## 参考技术文档
 
-关于 [UINIO-Logic-24MHz](https://gitee.com/uinika/UINIO-Logic-24MHz) 的硬件原理分析，以及配套上位机软件 [PulseView](https://sigrok.org/wiki/Downloads) 的使用，请参考 [**UinIO.com 电子技术实验室**](https://www.uinio.com/) 里的专题文章 [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/) 。
+[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-Logic-24MHz 开源项目提供了如下一系列技术参考资料：
+
+- [**《快速上手 UINIO-Logic-24MHz 逻辑分析仪》**](http://uinio.com/Project/UINIO-Logic-24MHz/) ：分析了 UINIO-Logic-24MHz 的硬件原理，并且介绍了配套上位机软件 [PulseView](https://sigrok.org/wiki/Downloads) 的使用。
+- [**《BOM 交互式物料清单与 PCB 布线在线预览》**](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)：列举 UINIO-Logic-24MHz 硬件 PCB 所涉及物料的同时，还提供了布线的预览。
