@@ -1,5 +1,5 @@
-### Footprint positions - created on Thu Jan 11 17:12:44 2024 ###
-### Printed by KiCad version 7.0.9
+### Footprint positions - created on Fri Apr 19 17:04:40 2024 ###
+### Printed by KiCad version 7.0.11
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                                         PosX       PosY       Rot  Side
@@ -21,14 +21,14 @@ HOLE2     Hole-2mm          Hole-2mm                                            
 HOLE3     Hole-2mm          Hole-2mm                                                      0.8550   -22.8650  180.0000  top
 HOLE4     Hole-2mm          Hole-2mm                                                      0.8550    -2.8650  180.0000  top
 J1        Conn_01x10_Pin    PinHeader_1x10_P2.54mm_Vertical                              45.4400    -1.3700    0.0000  top
-R1        100R              R_0402_1005Metric                                            38.7850   -18.0150    0.0000  top
-R2        100R              R_0402_1005Metric                                            38.7850   -16.5321    0.0000  top
-R3        100R              R_0402_1005Metric                                            38.7850   -15.0493    0.0000  top
-R4        100R              R_0402_1005Metric                                            38.7850   -13.5664    0.0000  top
-R5        100R              R_0402_1005Metric                                            38.7850   -12.0836    0.0000  top
-R6        100R              R_0402_1005Metric                                            38.7850   -10.6007    0.0000  top
-R7        100R              R_0402_1005Metric                                            38.7850    -9.1179    0.0000  top
-R8        100R              R_0402_1005Metric                                            38.7850    -7.6350    0.0000  top
+R1        100R              R_0402_1005Metric                                            38.7850   -18.2086    0.0000  top
+R2        100R              R_0402_1005Metric                                            38.7850   -16.7257    0.0000  top
+R3        100R              R_0402_1005Metric                                            38.7850   -15.2429    0.0000  top
+R4        100R              R_0402_1005Metric                                            38.7850   -13.7600    0.0000  top
+R5        100R              R_0402_1005Metric                                            38.7850   -12.2771    0.0000  top
+R6        100R              R_0402_1005Metric                                            38.7850   -10.7943    0.0000  top
+R7        100R              R_0402_1005Metric                                            38.7850    -9.3114    0.0000  top
+R8        100R              R_0402_1005Metric                                            38.7850    -7.8286    0.0000  top
 R9        100K              R_0402_1005Metric                                            34.7250    -3.0250  -90.0000  top
 R10       100K              R_0402_1005Metric                                            33.1929    -3.0250  -90.0000  top
 R11       100K              R_0402_1005Metric                                            31.6607    -3.0250  -90.0000  top
