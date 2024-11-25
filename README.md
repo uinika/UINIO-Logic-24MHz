@@ -23,7 +23,7 @@
 
 ## 参考技术文档
 
-[UinIO.com 电子技术实验室](http://uinio.com/) 为 UINIO-Logic-24MHz 开源项目提供了如下一系列技术参考资料：
+[UinIO.com 电子技术实验室](http://uinio.com/) 为 **UINIO-Logic-24MHz** 开源项目提供了如下一系列技术参考资料：
 
 - [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/)
 - [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)
