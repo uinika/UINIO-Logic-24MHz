@@ -1,26 +1,26 @@
-### Footprint positions - created on 2024-11-25T15:40:47+0800 ###
+### Footprint positions - created on 2024-11-27T18:46:53+0800 ###
 ### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val               Package                                                         PosX       PosY       Rot  Side
-C1        1uF               C_0402_1005Metric                                            10.8000   -22.4600  -90.0000  top
-C2        1uF               C_0402_1005Metric                                            15.8300   -22.4600   90.0000  top
+C1        1uF               C_0603_1608Metric                                            10.5000   -22.4600  -90.0000  top
+C2        1uF               C_0603_1608Metric                                            16.1300   -22.4600   90.0000  top
 C3        0.1uF             C_0402_1005Metric                                            20.8300   -18.6750    0.0000  top
 C4        0.1uF             C_0402_1005Metric                                            20.3800    -6.8650   90.0000  top
 C5        0.1uF             C_0402_1005Metric                                            25.4500    -9.9350    0.0000  top
 C6        0.1uF             C_0402_1005Metric                                            25.4500   -15.1150    0.0000  top
-C7        0.1uF             C_0402_1005Metric                                            11.9600   -14.9550   90.0000  top
-C8        12pF              C_0402_1005Metric                                            11.5100    -5.9650  180.0000  top
-C9        12pF              C_0402_1005Metric                                             9.4900    -5.9650    0.0000  top
+C7        0.1uF             C_0402_1005Metric                                            12.5700   -14.9550   90.0000  top
+C8        12pF              C_0402_1005Metric                                            12.4200    -6.2400  180.0000  top
+C9        12pF              C_0402_1005Metric                                            10.4000    -6.2400    0.0000  top
 C10       1uF               C_0402_1005Metric                                            15.2200    -2.3350  -90.0000  top
 C11       0.1uF             C_0402_1005Metric                                            17.7300   -18.6750  180.0000  top
-C12       0.1uF             C_0402_1005Metric                                            12.4400   -17.9250  180.0000  top
+C12       0.1uF             C_0402_1005Metric                                            13.0500   -17.9250  180.0000  top
 D1        LED_Red           LED_0603_1608Metric                                           5.6575   -21.3500  180.0000  top
 D2        LED_Yellow        LED_0603_1608Metric                                          29.0450    -2.9225   90.0000  top
 D3        LED_Green         LED_0603_1608Metric                                          22.4850    -2.9300   90.0000  top
 D4        1N4007            Nexperia_CFP3_SOD-123W                                       27.5025   -22.5950    0.0000  top
-D5        LESD5D5.0CT1G     D_SOD-523                                                     6.5900   -13.9750   90.0000  top
-D6        LESD5D5.0CT1G     D_SOD-523                                                     6.5900   -11.4750  -90.0000  top
+D5        LESD5D5.0CT1G     D_SOD-523                                                     7.1100   -13.9700   90.0000  top
+D6        LESD5D5.0CT1G     D_SOD-523                                                     7.1100   -11.4700  -90.0000  top
 F1        60V_1A            Fuse_1206_3216Metric                                         20.5800   -22.6200    0.0000  top
 HOLE1     Hole-2mm          Hole-2mm                                                     40.5400   -22.1050  180.0000  top
 HOLE2     Hole-2mm          Hole-2mm                                                     40.5400    -3.3050  180.0000  top
@@ -46,16 +46,16 @@ R16       100K              R_0402_1005Metric                                   
 R17       1K                R_0603_1608Metric                                             5.6650   -23.1950    0.0000  top
 R18       10K               R_0402_1005Metric                                            27.5000    -2.6450  -90.0000  top
 R19       10K               R_0402_1005Metric                                            20.9500    -2.6525  -90.0000  top
-R20       10K               R_0402_1005Metric                                            11.9600    -9.9550   90.0000  top
+R20       10K               R_0402_1005Metric                                            12.5700    -9.9550   90.0000  top
 R21       2.2K              R_0402_1005Metric                                            25.0100   -16.6550  -90.0000  top
 R22       2.2K              R_0402_1005Metric                                            25.0100   -18.5150   90.0000  top
 R23       100K              R_0402_1005Metric                                            16.7900    -2.3550   90.0000  top
-R24       5.1K              R_0603_1608Metric                                             7.3700    -8.3850    0.0000  top
-R25       5.1K              R_0603_1608Metric                                             7.3700   -17.0150    0.0000  top
+R24       5.1K              R_0603_1608Metric                                             7.8900    -8.3800    0.0000  top
+R25       5.1K              R_0603_1608Metric                                             7.8900   -17.0100    0.0000  top
 U1        AT24CS64-XHM      TSSOP-8_4.4x3mm_P0.65mm                                      32.8700   -18.2350  180.0000  top
 U2        74HC245C          TSSOP-20_L6.5-W4.4-P0.65-LS6.4-BL                            32.8640   -12.5550  -90.0000  top
 U3        ME6211C33M5G-N    SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR                            13.3150   -22.1400  180.0000  top
 U4        CY7C68013A-56LTX  QFN-56-1EP_8x8mm_P0.5mm_EP4.5x5.2mm_ThermalVias_TopTented    18.4700   -12.7000   90.0000  top
 USB1      USB_Type_C_16Pin  USB-C-SMD_TYPEC-304J-BCP16                                    1.1580   -12.7000  -90.0000  top
-Y1        24MHz             Crystal_SMD_3225-4Pin_3.2x2.5mm                              10.5000    -3.4050  -90.0000  top
+Y1        24MHz             Crystal_SMD_3225-4Pin_3.2x2.5mm                              11.5000    -3.6900  -90.0000  top
 ## End
