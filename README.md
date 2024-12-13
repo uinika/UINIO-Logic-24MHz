@@ -4,6 +4,7 @@
 
 ![](./Images/PCB-3D-1.png)
 
+
 ## 设计概要
 
 1. 采用 **USB Type-C** 接口，以及 `10 Pin` 的牛角插座；
@@ -21,8 +22,8 @@
 
 ## 参考技术文档
 
-[UinIO.com 电子技术实验室](http://uinio.com/) 为 **UINIO-Logic-24MHz** 开源项目提供了如下一系列技术参考资料：
+[UinIO.com](http://uinio.com/) 为 **UINIO-Logic-24MHz** 开源项目提供了如下一系列技术参考资料：
 
-- [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/)
-- [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)
+- [《UINIO-Logic-24MHz 核心板原理图》](http://uinio.com/my/works/UINIO-Logic-24MHz/UINIO-Logic-24MHz-Schematic.pdf)
+- [《交互式 BOM 物料清单与 PCB 版图在线预览》](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)
 - [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/)
