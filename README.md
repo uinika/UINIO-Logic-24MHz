@@ -4,8 +4,6 @@
 
 ![](./Images/PCB-3D-1.png)
 
-![](./Images/PCB-3D-2.png)
-
 ## 设计概要
 
 1. 采用 **USB Type-C** 接口，以及 `10 Pin` 的牛角插座；
@@ -27,3 +25,4 @@
 
 - [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/)
 - [《BOM 交互式物料清单与 PCB 布线在线预览》](http://uinio.com/archives/BOM/UINIO-Logic-24MHz.html)
+- [《快速上手 UINIO-Logic-24MHz 逻辑分析仪》](http://uinio.com/Project/UINIO-Logic-24MHz/)
